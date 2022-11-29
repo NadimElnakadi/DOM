@@ -13,5 +13,8 @@ function random_bg_color() {
 
 random_bg_color();
 
-for(let child of document.body.children)
-console.log(child);
+for(let child of document.body.children){
+    console.log(child);
+}
+
+
